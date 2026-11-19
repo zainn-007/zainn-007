@@ -20,3 +20,4 @@ Cybersecurity professional experienced in real-time SIEM/EDR alert triage, vulne
 | Project | Stack | Architecture & Scope |
 | :--- | :--- | :--- |
 | **[Cloud-Hosted SOC & SOAR Pipeline on OCI](https://github.com/zainn-007/oci-wazuh-suricata-soar)** | `OCI` `Wazuh` `Suricata` `n8n` `Docker` `WireGuard` | Self-hosted SIEM/IDS stack ingesting endpoint and OpenWrt perimeter logs over WireGuard, with MITRE ATT&CK rules and automated Telegram SOAR alerting |
+| **[Zero-Trust Cloud VPN & DNS Sinkhole on OCI](https://github.com/zainn-007/oci-wireguard-adguard-gateway)** | `OCI` `WireGuard` `OpenVPN` `AdGuard Home` `UFW` `OpenWrt` | Hardened cloud VPN gateway and closed-resolver DNS sinkhole with UFW perimeter isolation and OpenWrt PBR integration |
